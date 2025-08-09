@@ -2,6 +2,10 @@
 
 This project focuses on cleaning a layoff dataset by addressing several common data quality issues.
 
+## Code
+
+[Data Cleaning Code](SQL_Data_Cleaning_Project/README.md)
+
 ## Objectives
 
 The following data problems were identified and resolved:
