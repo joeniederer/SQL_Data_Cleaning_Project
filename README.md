@@ -4,7 +4,7 @@ This project focuses on cleaning a layoff dataset by addressing several common d
 
 ## Code
 
-[Data Cleaning Code](SQL_Data_Cleaning_Project/README.md)
+[Data Cleaning Code](README.md)
 
 ## Objectives
 
